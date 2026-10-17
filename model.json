@@ -1,0 +1,15 @@
+{
+  "id": "grok-imagine-video-1.5",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T15:14:16Z",
+  "prices": {
+    "default": {
+      "list": 0.08,
+      "effective": 0.064
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.064 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/grok-imagine-video-1-5"
+}
